@@ -10,6 +10,7 @@
     tools:context=".FavoriteActivity">
 
     <TextView
+        android:id="@+id/msg_txt"
         android:gravity="center"
         android:textSize="40dp"
         android:text="Favorite Activity"
